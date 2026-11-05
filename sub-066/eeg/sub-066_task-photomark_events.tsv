@@ -1,5 +1,5 @@
 onset	duration	sample	value
-1.259	0	629.5	PHOTO 5Hz
+1.259	0	629.5	PHOTO 5Hz           
 1.264	0	632	Photo/HV mark
 1.464	0	732	Photo/HV mark
 1.664	0	832	Photo/HV mark
@@ -54,7 +54,7 @@ onset	duration	sample	value
 11.064	0	5532	Photo/HV mark
 11.264	0	5632	Photo/HV mark
 21.262	0	10631	Photo/HV mark
-21.269	0	10634.5	PHOTO 10Hz
+21.269	0	10634.5	PHOTO 10Hz          
 21.362	0	10681	Photo/HV mark
 21.462	0	10731	Photo/HV mark
 21.562	0	10781	Photo/HV mark
@@ -159,7 +159,7 @@ onset	duration	sample	value
 31.262	0	15631	Photo/HV mark
 38.566	0	19283	eye movement
 41.26	0	20630	Photo/HV mark
-41.271	0	20635.5	PHOTO 15Hz
+41.271	0	20635.5	PHOTO 15Hz          
 41.328	0	20664	Photo/HV mark
 41.394	0	20697	Photo/HV mark
 41.46	0	20730	Photo/HV mark
@@ -313,7 +313,7 @@ onset	duration	sample	value
 51.192	0	25596	Photo/HV mark
 51.258	0	25629	Photo/HV mark
 61.258	0	30629	Photo/HV mark
-61.306	0	30653	PHOTO 20Hz
+61.306	0	30653	PHOTO 20Hz          
 61.308	0	30654	Photo/HV mark
 61.358	0	30679	Photo/HV mark
 61.408	0	30704	Photo/HV mark
@@ -518,7 +518,7 @@ onset	duration	sample	value
 71.204	0	35602	Photo/HV mark
 71.254	0	35627	Photo/HV mark
 81.256	0	40628	Photo/HV mark
-81.291	0	40645.5	PHOTO 15Hz
+81.291	0	40645.5	PHOTO 15Hz          
 81.324	0	40662	Photo/HV mark
 81.39	0	40695	Photo/HV mark
 81.456	0	40728	Photo/HV mark
@@ -672,11 +672,11 @@ onset	duration	sample	value
 91.188	0	45594	Photo/HV mark
 91.254	0	45627	Photo/HV mark
 95.064	0	47532	eye movement
-97.912	0	48956	PAT Mon-Cz EEG
+97.912	0	48956	PAT Mon-Cz EEG      
 97.924	0	48962	RESET condition
-102.347	0	51173.5	PAT ComAv EEG
+102.347	0	51173.5	PAT ComAv EEG       
 102.356	0	51178	RESET condition
-110.06	0	55030	PAT 2 EEG
+110.06	0	55030	PAT 2  EEG  
 110.088	0	55044	RESET condition
 210.657	0	105328.5	eye movement
 216.825	0	108412.5	eye movement
@@ -693,4 +693,4 @@ onset	duration	sample	value
 305.505	0	152752.5	Swallowing
 309.566	0	154783	RESET condition
 309.568	0	154784	CAL mode
-309.574	0	154787	PAT 2 CAL
+309.574	0	154787	PAT 2  CAL  
