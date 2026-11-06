@@ -1,5 +1,5 @@
-onset	duration	sample	value
-0.448	0	224	PHOTO 5Hz           
+onset	duration	sample	trial_type
+0.448	0	224	PHOTO 5Hz
 0.45	0	225	Photo/HV mark
 0.65	0	325	Photo/HV mark
 0.85	0	425	Photo/HV mark
@@ -55,7 +55,7 @@ onset	duration	sample	value
 10.45	0	5225	Photo/HV mark
 12.819	0	6409.5	Swallowing
 20.448	0	10224	Photo/HV mark
-20.469	0	10234.5	PHOTO 10Hz          
+20.469	0	10234.5	PHOTO 10Hz
 20.548	0	10274	Photo/HV mark
 20.648	0	10324	Photo/HV mark
 20.748	0	10374	Photo/HV mark
@@ -160,7 +160,7 @@ onset	duration	sample	value
 30.448	0	15224	Photo/HV mark
 37.465	0	18732.5	Swallowing
 40.446	0	20223	Photo/HV mark
-40.455	0	20227.5	PHOTO 15Hz          
+40.455	0	20227.5	PHOTO 15Hz
 40.514	0	20257	Photo/HV mark
 40.58	0	20290	Photo/HV mark
 40.646	0	20323	Photo/HV mark
@@ -316,7 +316,7 @@ onset	duration	sample	value
 52.465	0	26232.5	Swallowing
 60.444	0	30222	Photo/HV mark
 60.494	0	30247	Photo/HV mark
-60.506	0	30253	PHOTO 20Hz          
+60.506	0	30253	PHOTO 20Hz
 60.544	0	30272	Photo/HV mark
 60.594	0	30297	Photo/HV mark
 60.644	0	30322	Photo/HV mark
@@ -540,4 +540,4 @@ onset	duration	sample	value
 315.93	0	157965	eye movement
 324.082	0	162041	RESET condition
 324.084	0	162042	CAL mode
-324.091	0	162045.5	PAT 2  CAL  
+324.091	0	162045.5	PAT 2 CAL
