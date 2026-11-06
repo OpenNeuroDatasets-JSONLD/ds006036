@@ -1,5 +1,5 @@
-onset	duration	sample	value
-14.286	0	7143	PHOTO 5Hz           
+onset	duration	sample	trial_type
+14.286	0	7143	PHOTO 5Hz
 14.288	0	7144	Photo/HV mark
 14.488	0	7244	Photo/HV mark
 14.688	0	7344	Photo/HV mark
@@ -54,7 +54,7 @@ onset	duration	sample	value
 24.088	0	12044	Photo/HV mark
 24.288	0	12144	Photo/HV mark
 34.288	0	17144	Photo/HV mark
-34.3	0	17150	PHOTO 10Hz          
+34.3	0	17150	PHOTO 10Hz
 34.388	0	17194	Photo/HV mark
 34.488	0	17244	Photo/HV mark
 34.586	0	17293	Photo/HV mark
@@ -158,7 +158,7 @@ onset	duration	sample	value
 44.186	0	22093	Photo/HV mark
 44.286	0	22143	Photo/HV mark
 54.286	0	27143	Photo/HV mark
-54.305	0	27152.5	PHOTO 15Hz          
+54.305	0	27152.5	PHOTO 15Hz
 54.352	0	27176	Photo/HV mark
 54.418	0	27209	Photo/HV mark
 54.486	0	27243	Photo/HV mark
@@ -313,7 +313,7 @@ onset	duration	sample	value
 64.282	0	32141	Photo/HV mark
 74.284	0	37142	Photo/HV mark
 74.334	0	37167	Photo/HV mark
-74.336	0	37168	PHOTO 20Hz          
+74.336	0	37168	PHOTO 20Hz
 74.384	0	37192	Photo/HV mark
 74.434	0	37217	Photo/HV mark
 74.484	0	37242	Photo/HV mark
@@ -516,7 +516,7 @@ onset	duration	sample	value
 84.23	0	42115	Photo/HV mark
 84.28	0	42140	Photo/HV mark
 94.282	0	47141	Photo/HV mark
-94.354	0	47177	PHOTO 5Hz           
+94.354	0	47177	PHOTO 5Hz
 94.482	0	47241	Photo/HV mark
 94.682	0	47341	Photo/HV mark
 94.882	0	47441	Photo/HV mark
@@ -569,24 +569,24 @@ onset	duration	sample	value
 103.88	0	51940	Photo/HV mark
 104.08	0	52040	Photo/HV mark
 104.28	0	52140	Photo/HV mark
-108.478	0	54239	Y       
-114.614	0	57307	          
-162.4	0	81200	Y       
-163.78	0	81890	          
+108.478	0	54239	Y
+114.614	0	57307	n/a
+162.4	0	81200	Y
+163.78	0	81890	n/a
 186.064	0	93032	open eyes
 189.757	0	94878.5	closed eyes
 289.618	0	144809	open eyes
 293.61	0	146805	closed eyes
-348.929	0	174464.5	          
+348.929	0	174464.5	n/a
 356.251	0	178125.5	open eyes
 363.594	0	181797	closed eyes
-426.582	0	213291	          
+426.582	0	213291	n/a
 434.666	0	217333	open eyes
-467.655	0	233827.5	          
+467.655	0	233827.5	n/a
 475.345	0	237672.5	open eyes
 478.784	0	239392	closed eyes
 491.765	0	245882.5	eye movement
-500.492	0	250246	Y       
+500.492	0	250246	Y
 507.21	0	253605	RESET condition
 507.212	0	253606	CAL mode
-507.218	0	253609	PAT 2  CAL  
+507.218	0	253609	PAT 2 CAL
