@@ -1,4 +1,4 @@
-onset	duration	sample	value
+onset	duration	sample	trial_type
 25.864	0	12932	Photo/HV mark
 26.064	0	13032	Photo/HV mark
 26.264	0	13132	Photo/HV mark
@@ -8,7 +8,7 @@ onset	duration	sample	value
 27.064	0	13532	Photo/HV mark
 27.264	0	13632	Photo/HV mark
 27.464	0	13732	Photo/HV mark
-27.658	0	13829	PHOTO 5Hz           
+27.658	0	13829	PHOTO 5Hz
 27.664	0	13832	Photo/HV mark
 27.864	0	13932	Photo/HV mark
 28.064	0	14032	Photo/HV mark
@@ -72,7 +72,7 @@ onset	duration	sample	value
 47.462	0	23731	Photo/HV mark
 47.562	0	23781	Photo/HV mark
 47.662	0	23831	Photo/HV mark
-47.67	0	23835	PHOTO 10Hz          
+47.67	0	23835	PHOTO 10Hz
 47.762	0	23881	Photo/HV mark
 47.862	0	23931	Photo/HV mark
 47.962	0	23981	Photo/HV mark
@@ -185,7 +185,7 @@ onset	duration	sample	value
 67.526	0	33763	Photo/HV mark
 67.592	0	33796	Photo/HV mark
 67.66	0	33830	Photo/HV mark
-67.671	0	33835.5	PHOTO 15Hz          
+67.671	0	33835.5	PHOTO 15Hz
 67.726	0	33863	Photo/HV mark
 67.792	0	33896	Photo/HV mark
 67.86	0	33930	Photo/HV mark
@@ -350,7 +350,7 @@ onset	duration	sample	value
 87.608	0	43804	Photo/HV mark
 87.658	0	43829	Photo/HV mark
 87.708	0	43854	Photo/HV mark
-87.751	0	43875.5	PHOTO 20Hz          
+87.751	0	43875.5	PHOTO 20Hz
 87.758	0	43879	Photo/HV mark
 87.808	0	43904	Photo/HV mark
 87.858	0	43929	Photo/HV mark
