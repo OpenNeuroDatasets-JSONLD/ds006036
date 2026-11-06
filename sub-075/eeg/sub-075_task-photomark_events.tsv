@@ -1,5 +1,5 @@
-onset	duration	sample	value
-12.631	0	6315.5	PHOTO 5Hz           
+onset	duration	sample	trial_type
+12.631	0	6315.5	PHOTO 5Hz
 12.634	0	6317	Photo/HV mark
 12.834	0	6417	Photo/HV mark
 13.034	0	6517	Photo/HV mark
@@ -55,7 +55,7 @@ onset	duration	sample	value
 22.632	0	11316	Photo/HV mark
 24.827	0	12413.5	Swallowing
 32.632	0	16316	Photo/HV mark
-32.656	0	16328	PHOTO 10Hz          
+32.656	0	16328	PHOTO 10Hz
 32.732	0	16366	Photo/HV mark
 32.832	0	16416	Photo/HV mark
 32.932	0	16466	Photo/HV mark
@@ -161,7 +161,7 @@ onset	duration	sample	value
 42.63	0	21315	Photo/HV mark
 50.512	0	25256	Swallowing
 52.63	0	26315	Photo/HV mark
-52.644	0	26322	PHOTO 15Hz          
+52.644	0	26322	PHOTO 15Hz
 52.696	0	26348	Photo/HV mark
 52.762	0	26381	Photo/HV mark
 52.83	0	26415	Photo/HV mark
@@ -316,7 +316,7 @@ onset	duration	sample	value
 62.628	0	31314	Photo/HV mark
 72.628	0	36314	Photo/HV mark
 72.678	0	36339	Photo/HV mark
-72.692	0	36346	PHOTO 20Hz          
+72.692	0	36346	PHOTO 20Hz
 72.728	0	36364	Photo/HV mark
 72.778	0	36389	Photo/HV mark
 72.828	0	36414	Photo/HV mark
@@ -519,7 +519,7 @@ onset	duration	sample	value
 82.574	0	41287	Photo/HV mark
 82.624	0	41312	Photo/HV mark
 92.626	0	46313	Photo/HV mark
-92.632	0	46316	PHOTO 5Hz           
+92.632	0	46316	PHOTO 5Hz
 92.826	0	46413	Photo/HV mark
 93.026	0	46513	Photo/HV mark
 93.226	0	46613	Photo/HV mark
@@ -572,7 +572,7 @@ onset	duration	sample	value
 102.224	0	51112	Photo/HV mark
 102.424	0	51212	Photo/HV mark
 102.624	0	51312	Photo/HV mark
-112.496	0	56248	PHOTO 10Hz          
+112.496	0	56248	PHOTO 10Hz
 112.498	0	56249	Photo/HV mark
 112.598	0	56299	Photo/HV mark
 112.698	0	56349	Photo/HV mark
@@ -686,7 +686,7 @@ onset	duration	sample	value
 199.607	0	99803.5	eye movement
 207.246	0	103623	eye movement
 224.884	0	112442	eye movement
-229.028	0	114514	Y       
+229.028	0	114514	Y
 260.993	0	130496.5	eye movement
 268.864	0	134432	eye movement
 272.992	0	136496	open eyes
@@ -701,4 +701,4 @@ onset	duration	sample	value
 354.286	0	177143	eye movement
 372.964	0	186482	RESET condition
 372.966	0	186483	CAL mode
-372.972	0	186486	PAT 2  CAL  
+372.972	0	186486	PAT 2 CAL
