@@ -1,5 +1,5 @@
-onset	duration	sample	value
-18.569	0	9284.5	PHOTO 5Hz           
+onset	duration	sample	trial_type
+18.569	0	9284.5	PHOTO 5Hz
 18.572	0	9286	Photo/HV mark
 18.772	0	9386	Photo/HV mark
 18.972	0	9486	Photo/HV mark
@@ -54,7 +54,7 @@ onset	duration	sample	value
 28.37	0	14185	Photo/HV mark
 28.57	0	14285	Photo/HV mark
 38.57	0	19285	Photo/HV mark
-38.634	0	19317	PHOTO 10Hz          
+38.634	0	19317	PHOTO 10Hz
 38.67	0	19335	Photo/HV mark
 38.77	0	19385	Photo/HV mark
 38.87	0	19435	Photo/HV mark
@@ -158,7 +158,7 @@ onset	duration	sample	value
 48.468	0	24234	Photo/HV mark
 48.568	0	24284	Photo/HV mark
 58.568	0	29284	Photo/HV mark
-58.589	0	29294.5	PHOTO 15Hz          
+58.589	0	29294.5	PHOTO 15Hz
 58.634	0	29317	Photo/HV mark
 58.7	0	29350	Photo/HV mark
 58.768	0	29384	Photo/HV mark
@@ -314,7 +314,7 @@ onset	duration	sample	value
 78.566	0	39283	Photo/HV mark
 78.616	0	39308	Photo/HV mark
 78.666	0	39333	Photo/HV mark
-78.67	0	39335	PHOTO 20Hz          
+78.67	0	39335	PHOTO 20Hz
 78.716	0	39358	Photo/HV mark
 78.766	0	39383	Photo/HV mark
 78.816	0	39408	Photo/HV mark
@@ -516,7 +516,7 @@ onset	duration	sample	value
 88.512	0	44256	Photo/HV mark
 88.562	0	44281	Photo/HV mark
 98.564	0	49282	Photo/HV mark
-98.579	0	49289.5	PHOTO 5Hz           
+98.579	0	49289.5	PHOTO 5Hz
 98.764	0	49382	Photo/HV mark
 98.964	0	49482	Photo/HV mark
 99.164	0	49582	Photo/HV mark
@@ -573,13 +573,13 @@ onset	duration	sample	value
 127.217	0	63608.5	eye movement
 141.792	0	70896	eye movement
 146.839	0	73419.5	eye movement
-180.147	0	90073.5	Y       
+180.147	0	90073.5	Y
 195.805	0	97902.5	eye movement
 261.371	0	130685.5	eye movement
 296.399	0	148199.5	Swallowing
-383.425	0	191712.5	Y       
+383.425	0	191712.5	Y
 428.763	0	214381.5	Swallowing
-468.125	0	234062.5	Y       
+468.125	0	234062.5	Y
 529.557	0	264778.5	open eyes
 532.784	0	266392	closed eyes
 558.698	0	279349	closed eyes
@@ -588,4 +588,4 @@ onset	duration	sample	value
 582.688	0	291344	eye movement
 596.464	0	298232	RESET condition
 596.466	0	298233	CAL mode
-596.472	0	298236	PAT 2  CAL  
+596.472	0	298236	PAT 2 CAL
