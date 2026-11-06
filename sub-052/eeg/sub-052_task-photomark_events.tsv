@@ -1,5 +1,5 @@
-onset	duration	sample	value
-2.075	0	1037.5	PHOTO 5Hz           
+onset	duration	sample	trial_type
+2.075	0	1037.5	PHOTO 5Hz
 2.078	0	1039	Photo/HV mark
 2.278	0	1139	Photo/HV mark
 2.478	0	1239	Photo/HV mark
@@ -54,7 +54,7 @@ onset	duration	sample	value
 11.876	0	5938	Photo/HV mark
 12.076	0	6038	Photo/HV mark
 22.076	0	11038	Photo/HV mark
-22.118	0	11059	PHOTO 10Hz          
+22.118	0	11059	PHOTO 10Hz
 22.176	0	11088	Photo/HV mark
 22.276	0	11138	Photo/HV mark
 22.376	0	11188	Photo/HV mark
@@ -158,7 +158,7 @@ onset	duration	sample	value
 31.974	0	15987	Photo/HV mark
 32.074	0	16037	Photo/HV mark
 42.074	0	21037	Photo/HV mark
-42.089	0	21044.5	PHOTO 15Hz          
+42.089	0	21044.5	PHOTO 15Hz
 42.14	0	21070	Photo/HV mark
 42.206	0	21103	Photo/HV mark
 42.274	0	21137	Photo/HV mark
@@ -313,7 +313,7 @@ onset	duration	sample	value
 52.07	0	26035	Photo/HV mark
 62.072	0	31036	Photo/HV mark
 62.122	0	31061	Photo/HV mark
-62.154	0	31077	PHOTO 20Hz          
+62.154	0	31077	PHOTO 20Hz
 62.172	0	31086	Photo/HV mark
 62.222	0	31111	Photo/HV mark
 62.272	0	31136	Photo/HV mark
@@ -516,7 +516,7 @@ onset	duration	sample	value
 72.018	0	36009	Photo/HV mark
 72.068	0	36034	Photo/HV mark
 82.07	0	41035	Photo/HV mark
-82.156	0	41078	PHOTO 10Hz          
+82.156	0	41078	PHOTO 10Hz
 82.17	0	41085	Photo/HV mark
 82.27	0	41135	Photo/HV mark
 82.37	0	41185	Photo/HV mark
@@ -619,27 +619,27 @@ onset	duration	sample	value
 91.868	0	45934	Photo/HV mark
 91.968	0	45984	Photo/HV mark
 92.068	0	46034	Photo/HV mark
-102.743	0	51371.5	Y       
-118.384	0	59192	Y       
-139.457	0	69728.5	Y       
-150.225	0	75112.5	Y       
-169.134	0	84567	Y       
-186.876	0	93438	Y       
-201.53	0	100765	Y       
+102.743	0	51371.5	Y
+118.384	0	59192	Y
+139.457	0	69728.5	Y
+150.225	0	75112.5	Y
+169.134	0	84567	Y
+186.876	0	93438	Y
+201.53	0	100765	Y
 232.759	0	116379.5	open eyes
 237.75	0	118875	closed eyes
-242.043	0	121021.5	TINAGMA             
-266.579	0	133289.5	Y       
-292.979	0	146489.5	      
-312.323	0	156161.5	’      
-329.493	0	164746.5	  
+242.043	0	121021.5	TINAGMA
+266.579	0	133289.5	Y
+292.979	0	146489.5	n/a
+312.323	0	156161.5	’
+329.493	0	164746.5	n/a
 334.428	0	167214	Swallowing
 342.125	0	171062.5	open eyes
 345.818	0	172909	closed eyes
-397.989	0	198994.5	Y       
-408.78	0	204390	Y       
-427.444	0	213722	Y       
+397.989	0	198994.5	Y
+408.78	0	204390	Y
+427.444	0	213722	Y
 438.808	0	219404	Swallowing
 440.936	0	220468	RESET condition
 440.938	0	220469	CAL mode
-440.946	0	220473	PAT 2  CAL  
+440.946	0	220473	PAT 2 CAL
