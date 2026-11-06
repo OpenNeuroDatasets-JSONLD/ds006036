@@ -1,5 +1,5 @@
-onset	duration	sample	value
-14.819	0	7409.5	PHOTO 5Hz           
+onset	duration	sample	trial_type
+14.819	0	7409.5	PHOTO 5Hz
 14.824	0	7412	Photo/HV mark
 15.024	0	7512	Photo/HV mark
 15.224	0	7612	Photo/HV mark
@@ -55,7 +55,7 @@ onset	duration	sample	value
 24.824	0	12412	Photo/HV mark
 34.822	0	17411	Photo/HV mark
 34.922	0	17461	Photo/HV mark
-34.928	0	17464	PHOTO 10Hz          
+34.928	0	17464	PHOTO 10Hz
 35.022	0	17511	Photo/HV mark
 35.122	0	17561	Photo/HV mark
 35.222	0	17611	Photo/HV mark
@@ -158,7 +158,7 @@ onset	duration	sample	value
 44.722	0	22361	Photo/HV mark
 44.822	0	22411	Photo/HV mark
 54.822	0	27411	Photo/HV mark
-54.834	0	27417	PHOTO 15Hz          
+54.834	0	27417	PHOTO 15Hz
 54.888	0	27444	Photo/HV mark
 54.954	0	27477	Photo/HV mark
 55.02	0	27510	Photo/HV mark
@@ -312,7 +312,7 @@ onset	duration	sample	value
 64.752	0	32376	Photo/HV mark
 64.818	0	32409	Photo/HV mark
 74.82	0	37410	Photo/HV mark
-74.852	0	37426	PHOTO 20Hz          
+74.852	0	37426	PHOTO 20Hz
 74.87	0	37435	Photo/HV mark
 74.92	0	37460	Photo/HV mark
 74.97	0	37485	Photo/HV mark
@@ -515,11 +515,11 @@ onset	duration	sample	value
 84.716	0	42358	Photo/HV mark
 84.766	0	42383	Photo/HV mark
 84.816	0	42408	Photo/HV mark
-108.204	0	54102	PAT Mon-Cz EEG      
+108.204	0	54102	PAT Mon-Cz EEG
 108.212	0	54106	RESET condition
-111.893	0	55946.5	PAT ComAv EEG       
+111.893	0	55946.5	PAT ComAv EEG
 111.906	0	55953	RESET condition
-118.597	0	59298.5	PAT 2  EEG  
+118.597	0	59298.5	PAT 2 EEG
 118.61	0	59305	RESET condition
 139.085	0	69542.5	eye movement
 154.953	0	77476.5	eye movement
@@ -536,4 +536,4 @@ onset	duration	sample	value
 309.232	0	154616	closed eyes
 351.954	0	175977	RESET condition
 351.958	0	175979	CAL mode
-351.966	0	175983	PAT 2  CAL  
+351.966	0	175983	PAT 2 CAL

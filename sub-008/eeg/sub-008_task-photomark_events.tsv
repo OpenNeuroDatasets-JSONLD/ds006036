@@ -1,5 +1,5 @@
-onset	duration	sample	value
-15.563	0	7781.5	PHOTO 5Hz           
+onset	duration	sample	trial_type
+15.563	0	7781.5	PHOTO 5Hz
 15.566	0	7783	Photo/HV mark
 15.766	0	7883	Photo/HV mark
 15.966	0	7983	Photo/HV mark
@@ -55,7 +55,7 @@ onset	duration	sample	value
 25.564	0	12782	Photo/HV mark
 35.564	0	17782	Photo/HV mark
 35.664	0	17832	Photo/HV mark
-35.669	0	17834.5	PHOTO 10Hz          
+35.669	0	17834.5	PHOTO 10Hz
 35.764	0	17882	Photo/HV mark
 35.864	0	17932	Photo/HV mark
 35.964	0	17982	Photo/HV mark
@@ -158,7 +158,7 @@ onset	duration	sample	value
 45.464	0	22732	Photo/HV mark
 45.564	0	22782	Photo/HV mark
 55.562	0	27781	Photo/HV mark
-55.575	0	27787.5	PHOTO 15Hz          
+55.575	0	27787.5	PHOTO 15Hz
 55.628	0	27814	Photo/HV mark
 55.696	0	27848	Photo/HV mark
 55.762	0	27881	Photo/HV mark
@@ -312,7 +312,7 @@ onset	duration	sample	value
 65.492	0	32746	Photo/HV mark
 65.56	0	32780	Photo/HV mark
 75.56	0	37780	Photo/HV mark
-75.597	0	37798.5	PHOTO 20Hz          
+75.597	0	37798.5	PHOTO 20Hz
 75.61	0	37805	Photo/HV mark
 75.66	0	37830	Photo/HV mark
 75.71	0	37855	Photo/HV mark
@@ -516,7 +516,7 @@ onset	duration	sample	value
 85.506	0	42753	Photo/HV mark
 85.556	0	42778	Photo/HV mark
 95.558	0	47779	Photo/HV mark
-95.596	0	47798	PHOTO 10Hz          
+95.596	0	47798	PHOTO 10Hz
 95.658	0	47829	Photo/HV mark
 95.758	0	47879	Photo/HV mark
 95.858	0	47929	Photo/HV mark
@@ -617,8 +617,8 @@ onset	duration	sample	value
 105.358	0	52679	Photo/HV mark
 105.458	0	52729	Photo/HV mark
 105.558	0	52779	Photo/HV mark
-138.088	0	69044	Y       
-157.678	0	78839	Y       
+138.088	0	69044	Y
+157.678	0	78839	Y
 161.07	0	80535	eye movement
 169.573	0	84786.5	head movement
 185.971	0	92985.5	eye movement
@@ -627,11 +627,11 @@ onset	duration	sample	value
 224.92	0	112460	eye movement
 226.886	0	113443	open eyes
 230.671	0	115335.5	closed eyes
-241.309	0	120654.5	Y       
-269.844	0	134922	Y       
+241.309	0	120654.5	Y
+269.844	0	134922	Y
 306.238	0	153119	open eyes
 310.424	0	155212	closed eyes
-340.73	0	170365	Y       
+340.73	0	170365	Y
 384.022	0	192011	RESET condition
 384.026	0	192013	CAL mode
-384.031	0	192015.5	PAT 2  CAL  
+384.031	0	192015.5	PAT 2 CAL

@@ -1,5 +1,5 @@
-onset	duration	sample	value
-0.734	0	367	PHOTO 5Hz           
+onset	duration	sample	trial_type
+0.734	0	367	PHOTO 5Hz
 0.736	0	368	Photo/HV mark
 0.936	0	468	Photo/HV mark
 1.136	0	568	Photo/HV mark
@@ -53,7 +53,7 @@ onset	duration	sample	value
 10.536	0	5268	Photo/HV mark
 10.736	0	5368	Photo/HV mark
 20.734	0	10367	Photo/HV mark
-20.804	0	10402	PHOTO 10Hz          
+20.804	0	10402	PHOTO 10Hz
 20.834	0	10417	Photo/HV mark
 20.934	0	10467	Photo/HV mark
 21.034	0	10517	Photo/HV mark
@@ -157,7 +157,7 @@ onset	duration	sample	value
 30.634	0	15317	Photo/HV mark
 30.734	0	15367	Photo/HV mark
 40.734	0	20367	Photo/HV mark
-40.744	0	20372	PHOTO 15Hz          
+40.744	0	20372	PHOTO 15Hz
 40.8	0	20400	Photo/HV mark
 40.866	0	20433	Photo/HV mark
 40.934	0	20467	Photo/HV mark
@@ -313,7 +313,7 @@ onset	duration	sample	value
 60.732	0	30366	Photo/HV mark
 60.782	0	30391	Photo/HV mark
 60.832	0	30416	Photo/HV mark
-60.838	0	30419	PHOTO 20Hz          
+60.838	0	30419	PHOTO 20Hz
 60.882	0	30441	Photo/HV mark
 60.932	0	30466	Photo/HV mark
 60.982	0	30491	Photo/HV mark
@@ -515,7 +515,7 @@ onset	duration	sample	value
 70.678	0	35339	Photo/HV mark
 70.728	0	35364	Photo/HV mark
 80.73	0	40365	Photo/HV mark
-80.749	0	40374.5	PHOTO 25Hz          
+80.749	0	40374.5	PHOTO 25Hz
 80.77	0	40385	Photo/HV mark
 80.81	0	40405	Photo/HV mark
 80.85	0	40425	Photo/HV mark
@@ -768,7 +768,7 @@ onset	duration	sample	value
 90.648	0	45324	Photo/HV mark
 90.688	0	45344	Photo/HV mark
 90.728	0	45364	Photo/HV mark
-100.708	0	50354	PHOTO 3Hz           
+100.708	0	50354	PHOTO 3Hz
 100.71	0	50355	Photo/HV mark
 101.044	0	50522	Photo/HV mark
 101.376	0	50688	Photo/HV mark
@@ -803,7 +803,7 @@ onset	duration	sample	value
 110.376	0	55188	Photo/HV mark
 110.708	0	55354	Photo/HV mark
 120.708	0	60354	Photo/HV mark
-120.72	0	60360	PHOTO 7Hz           
+120.72	0	60360	PHOTO 7Hz
 120.852	0	60426	Photo/HV mark
 120.994	0	60497	Photo/HV mark
 121.136	0	60568	Photo/HV mark
@@ -884,4 +884,4 @@ onset	duration	sample	value
 416.414	0	208207	Swallowing
 433.366	0	216683	RESET condition
 433.368	0	216684	CAL mode
-433.374	0	216687	PAT 2  CAL  
+433.374	0	216687	PAT 2 CAL

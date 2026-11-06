@@ -1,4 +1,4 @@
-onset	duration	sample	value
+onset	duration	sample	trial_type
 0.03	0	15	Photo/HV mark
 0.08	0	40	Photo/HV mark
 0.13	0	65	Photo/HV mark
@@ -70,7 +70,7 @@ onset	duration	sample	value
 3.43	0	1715	Photo/HV mark
 3.48	0	1740	Photo/HV mark
 13.482	0	6741	Photo/HV mark
-13.554	0	6777	PHOTO 5Hz           
+13.554	0	6777	PHOTO 5Hz
 13.682	0	6841	Photo/HV mark
 13.882	0	6941	Photo/HV mark
 14.082	0	7041	Photo/HV mark
@@ -123,19 +123,19 @@ onset	duration	sample	value
 23.08	0	11540	Photo/HV mark
 23.28	0	11640	Photo/HV mark
 23.48	0	11740	Photo/HV mark
-27.678	0	13839	Y       
-33.814	0	16907	          
-81.6	0	40800	Y       
-82.98	0	41490	          
+27.678	0	13839	Y
+33.814	0	16907	n/a
+81.6	0	40800	Y
+82.98	0	41490	n/a
 105.264	0	52632	open eyes
 108.957	0	54478.5	closed eyes
 208.818	0	104409	open eyes
 212.81	0	106405	closed eyes
-268.129	0	134064.5	          
+268.129	0	134064.5	n/a
 275.451	0	137725.5	open eyes
 282.794	0	141397	closed eyes
-345.782	0	172891	          
+345.782	0	172891	n/a
 353.866	0	176933	open eyes
-386.855	0	193427.5	          
+386.855	0	193427.5	n/a
 394.545	0	197272.5	open eyes
 397.984	0	198992	closed eyes

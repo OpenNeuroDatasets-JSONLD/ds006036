@@ -1,5 +1,5 @@
-onset	duration	sample	value
-0.676	0	338	PHOTO 5Hz           
+onset	duration	sample	trial_type
+0.676	0	338	PHOTO 5Hz
 0.68	0	340	Photo/HV mark
 0.88	0	440	Photo/HV mark
 1.08	0	540	Photo/HV mark
@@ -55,7 +55,7 @@ onset	duration	sample	value
 10.478	0	5239	Photo/HV mark
 10.678	0	5339	Photo/HV mark
 20.678	0	10339	Photo/HV mark
-20.69	0	10345	PHOTO 10Hz          
+20.69	0	10345	PHOTO 10Hz
 20.778	0	10389	Photo/HV mark
 20.878	0	10439	Photo/HV mark
 20.978	0	10489	Photo/HV mark
@@ -157,7 +157,7 @@ onset	duration	sample	value
 30.576	0	15288	Photo/HV mark
 30.676	0	15338	Photo/HV mark
 40.676	0	20338	Photo/HV mark
-40.692	0	20346	PHOTO 15Hz          
+40.692	0	20346	PHOTO 15Hz
 40.742	0	20371	Photo/HV mark
 40.808	0	20404	Photo/HV mark
 40.876	0	20438	Photo/HV mark
@@ -311,7 +311,7 @@ onset	duration	sample	value
 58.525	0	29262.5	Swallowing
 60.674	0	30337	Photo/HV mark
 60.724	0	30362	Photo/HV mark
-60.727	0	30363.5	PHOTO 20Hz          
+60.727	0	30363.5	PHOTO 20Hz
 60.774	0	30387	Photo/HV mark
 60.824	0	30412	Photo/HV mark
 60.874	0	30437	Photo/HV mark
@@ -512,7 +512,7 @@ onset	duration	sample	value
 70.62	0	35310	Photo/HV mark
 70.67	0	35335	Photo/HV mark
 80.672	0	40336	Photo/HV mark
-80.745	0	40372.5	PHOTO 5Hz           
+80.745	0	40372.5	PHOTO 5Hz
 80.872	0	40436	Photo/HV mark
 81.072	0	40536	Photo/HV mark
 81.272	0	40636	Photo/HV mark
@@ -563,24 +563,24 @@ onset	duration	sample	value
 90.27	0	45135	Photo/HV mark
 90.47	0	45235	Photo/HV mark
 90.67	0	45335	Photo/HV mark
-157.96	0	78980	Y       
+157.96	0	78980	Y
 170.214	0	85107	Swallowing
-180.548	0	90274	PAT Mon-Cz EEG      
+180.548	0	90274	PAT Mon-Cz EEG
 180.556	0	90278	RESET condition
-186.98	0	93490	PAT ComAv EEG       
+186.98	0	93490	PAT ComAv EEG
 186.992	0	93496	RESET condition
-194.779	0	97389.5	PAT 2  EEG  
+194.779	0	97389.5	PAT 2 EEG
 194.792	0	97396	RESET condition
-199.307	0	99653.5	Y       
+199.307	0	99653.5	Y
 213.817	0	106908.5	eye movement
-268.045	0	134022.5	Y       
+268.045	0	134022.5	Y
 271.051	0	135525.5	open eyes
 275.237	0	137618.5	closed eyes
 284.267	0	142133.5	Swallowing
-289.313	0	144656.5	  
+289.313	0	144656.5	n/a
 292.553	0	146276.5	Swallowing
 310.025	0	155012.5	open eyes
 313.665	0	156832.5	closed eyes
 335.532	0	167766	RESET condition
 335.534	0	167767	CAL mode
-335.539	0	167769.5	PAT 2  CAL  
+335.539	0	167769.5	PAT 2 CAL

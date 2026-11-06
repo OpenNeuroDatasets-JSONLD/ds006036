@@ -1,6 +1,6 @@
-onset	duration	sample	value
+onset	duration	sample	trial_type
 6.657	0	3328.5	eye movement
-12.246	0	6123	PHOTO 5Hz           
+12.246	0	6123	PHOTO 5Hz
 12.248	0	6124	Photo/HV mark
 12.448	0	6224	Photo/HV mark
 12.648	0	6324	Photo/HV mark
@@ -56,7 +56,7 @@ onset	duration	sample	value
 22.248	0	11124	Photo/HV mark
 32.248	0	16124	Photo/HV mark
 32.279	0	16139.5	Swallowing
-32.344	0	16172	PHOTO 10Hz          
+32.344	0	16172	PHOTO 10Hz
 32.348	0	16174	Photo/HV mark
 32.448	0	16224	Photo/HV mark
 32.548	0	16274	Photo/HV mark
@@ -161,7 +161,7 @@ onset	duration	sample	value
 42.246	0	21123	Photo/HV mark
 48.326	0	24163	eye movement
 52.246	0	26123	Photo/HV mark
-52.251	0	26125.5	PHOTO 15Hz          
+52.251	0	26125.5	PHOTO 15Hz
 52.312	0	26156	Photo/HV mark
 52.378	0	26189	Photo/HV mark
 52.446	0	26223	Photo/HV mark
@@ -316,7 +316,7 @@ onset	duration	sample	value
 62.242	0	31121	Photo/HV mark
 70.526	0	35263	eye movement
 72.244	0	36122	Photo/HV mark
-72.269	0	36134.5	PHOTO 20Hz          
+72.269	0	36134.5	PHOTO 20Hz
 72.294	0	36147	Photo/HV mark
 72.344	0	36172	Photo/HV mark
 72.394	0	36197	Photo/HV mark
@@ -521,7 +521,7 @@ onset	duration	sample	value
 82.24	0	41120	Photo/HV mark
 87.603	0	43801.5	eye movement
 92.242	0	46121	Photo/HV mark
-92.289	0	46144.5	PHOTO 5Hz           
+92.289	0	46144.5	PHOTO 5Hz
 92.442	0	46221	Photo/HV mark
 92.642	0	46321	Photo/HV mark
 92.842	0	46421	Photo/HV mark
@@ -581,11 +581,11 @@ onset	duration	sample	value
 199.348	0	99674	eye movement
 206.26	0	103130	eye movement
 215.179	0	107589.5	eye movement
-282.374	0	141187	PAT Mon-Cz EEG      
+282.374	0	141187	PAT Mon-Cz EEG
 282.464	0	141232	RESET condition
-304.297	0	152148.5	PAT 2  EEG  
+304.297	0	152148.5	PAT 2 EEG
 304.31	0	152155	RESET condition
-315.688	0	157844	Y       
+315.688	0	157844	Y
 323.025	0	161512.5	open eyes
 327.231	0	163615.5	closed eyes
 347.036	0	173518	eye movement
@@ -597,4 +597,4 @@ onset	duration	sample	value
 394.215	0	197107.5	eye movement
 439.766	0	219883	RESET condition
 439.77	0	219885	CAL mode
-439.775	0	219887.5	PAT 2  CAL  
+439.775	0	219887.5	PAT 2 CAL

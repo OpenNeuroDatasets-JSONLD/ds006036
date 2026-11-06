@@ -1,5 +1,5 @@
-onset	duration	sample	value
-5.047	0	2523.5	PHOTO 5Hz           
+onset	duration	sample	trial_type
+5.047	0	2523.5	PHOTO 5Hz
 5.05	0	2525	Photo/HV mark
 5.25	0	2625	Photo/HV mark
 5.45	0	2725	Photo/HV mark
@@ -54,7 +54,7 @@ onset	duration	sample	value
 14.85	0	7425	Photo/HV mark
 15.05	0	7525	Photo/HV mark
 25.048	0	12524	Photo/HV mark
-25.074	0	12537	PHOTO 10Hz          
+25.074	0	12537	PHOTO 10Hz
 25.148	0	12574	Photo/HV mark
 25.248	0	12624	Photo/HV mark
 25.348	0	12674	Photo/HV mark
@@ -158,7 +158,7 @@ onset	duration	sample	value
 34.948	0	17474	Photo/HV mark
 35.048	0	17524	Photo/HV mark
 45.046	0	22523	Photo/HV mark
-45.064	0	22532	PHOTO 15Hz          
+45.064	0	22532	PHOTO 15Hz
 45.114	0	22557	Photo/HV mark
 45.18	0	22590	Photo/HV mark
 45.246	0	22623	Photo/HV mark
@@ -314,7 +314,7 @@ onset	duration	sample	value
 65.044	0	32522	Photo/HV mark
 65.094	0	32547	Photo/HV mark
 65.144	0	32572	Photo/HV mark
-65.172	0	32586	PHOTO 20Hz          
+65.172	0	32586	PHOTO 20Hz
 65.194	0	32597	Photo/HV mark
 65.244	0	32622	Photo/HV mark
 65.294	0	32647	Photo/HV mark
@@ -516,7 +516,7 @@ onset	duration	sample	value
 74.99	0	37495	Photo/HV mark
 75.04	0	37520	Photo/HV mark
 85.042	0	42521	Photo/HV mark
-85.129	0	42564.5	PHOTO 5Hz           
+85.129	0	42564.5	PHOTO 5Hz
 85.242	0	42621	Photo/HV mark
 85.442	0	42721	Photo/HV mark
 85.642	0	42821	Photo/HV mark
@@ -570,8 +570,8 @@ onset	duration	sample	value
 94.642	0	47321	Photo/HV mark
 94.842	0	47421	Photo/HV mark
 95.042	0	47521	Photo/HV mark
-183.024	0	91512	Y       
-219.205	0	109602.5	          
+183.024	0	91512	Y
+219.205	0	109602.5	n/a
 269.739	0	134869.5	head movement
 286.263	0	143131.5	open eyes
 286.383	0	143191.5	open eyes
@@ -582,7 +582,7 @@ onset	duration	sample	value
 336.72	0	168360	closed eyes
 356.037	0	178018.5	open eyes
 362.404	0	181202	closed eyes
-364.684	0	182342	  
+364.684	0	182342	n/a
 370.284	0	185142	Swallowing
 370.387	0	185193.5	Swallowing
 373.404	0	186702	Swallowing
@@ -591,4 +591,4 @@ onset	duration	sample	value
 404.855	0	202427.5	speech
 415.726	0	207863	RESET condition
 415.728	0	207864	CAL mode
-415.734	0	207867	PAT 2  CAL  
+415.734	0	207867	PAT 2 CAL

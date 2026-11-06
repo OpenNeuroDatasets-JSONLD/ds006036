@@ -1,5 +1,5 @@
-onset	duration	sample	value
-17.391	0	8695.5	PHOTO 5Hz           
+onset	duration	sample	trial_type
+17.391	0	8695.5	PHOTO 5Hz
 17.394	0	8697	Photo/HV mark
 17.594	0	8797	Photo/HV mark
 17.794	0	8897	Photo/HV mark
@@ -55,7 +55,7 @@ onset	duration	sample	value
 27.392	0	13696	Photo/HV mark
 37.392	0	18696	Photo/HV mark
 37.492	0	18746	Photo/HV mark
-37.504	0	18752	PHOTO 10Hz          
+37.504	0	18752	PHOTO 10Hz
 37.592	0	18796	Photo/HV mark
 37.692	0	18846	Photo/HV mark
 37.792	0	18896	Photo/HV mark
@@ -158,7 +158,7 @@ onset	duration	sample	value
 47.292	0	23646	Photo/HV mark
 47.392	0	23696	Photo/HV mark
 57.39	0	28695	Photo/HV mark
-57.409	0	28704.5	PHOTO 15Hz          
+57.409	0	28704.5	PHOTO 15Hz
 57.456	0	28728	Photo/HV mark
 57.524	0	28762	Photo/HV mark
 57.59	0	28795	Photo/HV mark
@@ -312,7 +312,7 @@ onset	duration	sample	value
 67.322	0	33661	Photo/HV mark
 67.388	0	33694	Photo/HV mark
 77.388	0	38694	Photo/HV mark
-77.429	0	38714.5	PHOTO 20Hz          
+77.429	0	38714.5	PHOTO 20Hz
 77.438	0	38719	Photo/HV mark
 77.488	0	38744	Photo/HV mark
 77.538	0	38769	Photo/HV mark
@@ -516,7 +516,7 @@ onset	duration	sample	value
 87.334	0	43667	Photo/HV mark
 87.384	0	43692	Photo/HV mark
 97.386	0	48693	Photo/HV mark
-97.447	0	48723.5	PHOTO 5Hz           
+97.447	0	48723.5	PHOTO 5Hz
 97.586	0	48793	Photo/HV mark
 97.786	0	48893	Photo/HV mark
 97.986	0	48993	Photo/HV mark
@@ -591,4 +591,4 @@ onset	duration	sample	value
 362.599	0	181299.5	eye movement
 425.934	0	212967	RESET condition
 425.936	0	212968	CAL mode
-425.945	0	212972.5	PAT 2  CAL  
+425.945	0	212972.5	PAT 2 CAL
