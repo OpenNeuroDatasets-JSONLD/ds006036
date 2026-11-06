@@ -1,6 +1,6 @@
-onset	duration	sample	value
+onset	duration	sample	trial_type
 8.106	0	4053	Photo/HV mark
-8.148	0	4074	PHOTO 20Hz          
+8.148	0	4074	PHOTO 20Hz
 8.156	0	4078	Photo/HV mark
 8.206	0	4103	Photo/HV mark
 8.256	0	4128	Photo/HV mark
@@ -204,7 +204,7 @@ onset	duration	sample	value
 18.052	0	9026	Photo/HV mark
 18.102	0	9051	Photo/HV mark
 28.104	0	14052	Photo/HV mark
-28.166	0	14083	PHOTO 5Hz           
+28.166	0	14083	PHOTO 5Hz
 28.304	0	14152	Photo/HV mark
 28.504	0	14252	Photo/HV mark
 28.704	0	14352	Photo/HV mark
@@ -257,10 +257,10 @@ onset	duration	sample	value
 37.704	0	18852	Photo/HV mark
 37.904	0	18952	Photo/HV mark
 38.104	0	19052	Photo/HV mark
-66.358	0	33179	Y       
+66.358	0	33179	Y
 87.587	0	43793.5	muscle
 99.005	0	49502.5	muscle
-106.025	0	53012.5	Y       
+106.025	0	53012.5	Y
 155.685	0	77842.5	eye movement
 170.754	0	85377	muscle
 187.153	0	93576.5	muscle
@@ -274,5 +274,5 @@ onset	duration	sample	value
 279.665	0	139832.5	open eyes
 284.966	0	142483	closed eyes
 304.14	0	152070	muscle
-325.73	0	162865	Y       
+325.73	0	162865	Y
 350.615	0	175307.5	muscle
