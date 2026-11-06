@@ -1,5 +1,5 @@
-onset	duration	sample	value
-21.889	0	10944.5	PHOTO 5Hz           
+onset	duration	sample	trial_type
+21.889	0	10944.5	PHOTO 5Hz
 21.892	0	10946	Photo/HV mark
 22.092	0	11046	Photo/HV mark
 22.292	0	11146	Photo/HV mark
@@ -55,7 +55,7 @@ onset	duration	sample	value
 31.892	0	15946	Photo/HV mark
 37.469	0	18734.5	Swallowing
 41.89	0	20945	Photo/HV mark
-41.975	0	20987.5	PHOTO 10Hz          
+41.975	0	20987.5	PHOTO 10Hz
 41.99	0	20995	Photo/HV mark
 42.09	0	21045	Photo/HV mark
 42.19	0	21095	Photo/HV mark
@@ -160,7 +160,7 @@ onset	duration	sample	value
 51.89	0	25945	Photo/HV mark
 56.075	0	28037.5	speech
 61.888	0	30944	Photo/HV mark
-61.899	0	30949.5	PHOTO 15Hz          
+61.899	0	30949.5	PHOTO 15Hz
 61.956	0	30978	Photo/HV mark
 62.022	0	31011	Photo/HV mark
 62.088	0	31044	Photo/HV mark
@@ -314,7 +314,7 @@ onset	duration	sample	value
 71.82	0	35910	Photo/HV mark
 71.886	0	35943	Photo/HV mark
 81.886	0	40943	Photo/HV mark
-81.904	0	40952	PHOTO 20Hz          
+81.904	0	40952	PHOTO 20Hz
 81.936	0	40968	Photo/HV mark
 81.986	0	40993	Photo/HV mark
 82.036	0	41018	Photo/HV mark
@@ -518,7 +518,7 @@ onset	duration	sample	value
 91.832	0	45916	Photo/HV mark
 91.882	0	45941	Photo/HV mark
 101.884	0	50942	Photo/HV mark
-101.92	0	50960	PHOTO 5Hz           
+101.92	0	50960	PHOTO 5Hz
 102.084	0	51042	Photo/HV mark
 102.284	0	51142	Photo/HV mark
 102.484	0	51242	Photo/HV mark
@@ -577,17 +577,17 @@ onset	duration	sample	value
 153.616	0	76808	eye movement
 170.446	0	85223	eye movement
 201.507	0	100753.5	eye movement
-223.049	0	111524.5	Y       
+223.049	0	111524.5	Y
 239.159	0	119579.5	eye movement
-256.069	0	128034.5	Y       
+256.069	0	128034.5	Y
 267.54	0	133770	eye movement
 273.587	0	136793.5	eye movement
-308.905	0	154452.5	Y       
+308.905	0	154452.5	Y
 315.87	0	157935	eye movement
 319.27	0	159635	Swallowing
 323.064	0	161532	open eyes
 326.984	0	163492	closed eyes
-355.138	0	177569	Y       
+355.138	0	177569	Y
 362.393	0	181196.5	open eyes
 366.746	0	183373	closed eyes
 375.705	0	187852.5	eye movement
@@ -597,4 +597,4 @@ onset	duration	sample	value
 401.984	0	200992	eye movement
 420.748	0	210374	RESET condition
 420.75	0	210375	CAL mode
-420.756	0	210378	PAT 2  CAL  
+420.756	0	210378	PAT 2 CAL
