@@ -9,6 +9,6 @@
   "EEGReference": "A1 A2",
   "TaskName": "photomark",
   "RecordingType": "continuous",
-  "RecordingDuration": 81.09999999999999,
+  "RecordingDuration": 472,
   "SamplingFrequency": 500
 }
